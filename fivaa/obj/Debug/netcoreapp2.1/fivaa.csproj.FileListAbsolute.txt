@@ -1,0 +1,11 @@
+C:\Sirclo Test\fivaa\fivaa\bin\Debug\netcoreapp2.1\fivaa.deps.json
+C:\Sirclo Test\fivaa\fivaa\bin\Debug\netcoreapp2.1\fivaa.runtimeconfig.json
+C:\Sirclo Test\fivaa\fivaa\bin\Debug\netcoreapp2.1\fivaa.runtimeconfig.dev.json
+C:\Sirclo Test\fivaa\fivaa\bin\Debug\netcoreapp2.1\fivaa.dll
+C:\Sirclo Test\fivaa\fivaa\bin\Debug\netcoreapp2.1\fivaa.pdb
+C:\Sirclo Test\fivaa\fivaa\obj\Debug\netcoreapp2.1\fivaa.csprojAssemblyReference.cache
+C:\Sirclo Test\fivaa\fivaa\obj\Debug\netcoreapp2.1\fivaa.csproj.CoreCompileInputs.cache
+C:\Sirclo Test\fivaa\fivaa\obj\Debug\netcoreapp2.1\fivaa.AssemblyInfoInputs.cache
+C:\Sirclo Test\fivaa\fivaa\obj\Debug\netcoreapp2.1\fivaa.AssemblyInfo.cs
+C:\Sirclo Test\fivaa\fivaa\obj\Debug\netcoreapp2.1\fivaa.dll
+C:\Sirclo Test\fivaa\fivaa\obj\Debug\netcoreapp2.1\fivaa.pdb
